@@ -5,7 +5,7 @@ public class Main {
         byte dog = 3;
         int cat = 2;
         short mouse = 4;
-        long elefant = 300L;
+        long giraffe = 300L;
         float sugarWeight = 5.5f;
         double saltWeight = 3.5;
         boolean dogIsAdult = dog > 20;
