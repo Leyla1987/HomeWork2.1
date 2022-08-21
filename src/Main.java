@@ -36,6 +36,8 @@ public class Main {
         float shakekg = shake/(float)grPerKg;
         System.out.println ("Вес коктеля в килограммах " + shakekg + " кг.");
 
+        // Задание 4
+
         int weightLoss1 = 250;
         int weightLoss2 = 500;
         int daysLoss1 = 7000 / 250;
